@@ -9,7 +9,7 @@ This is an accelerometer/gyro/temperature sensor paired with an STM32 ARM cortex
 
 **Documentation:** Schematic PDF, Datasheet PDF, BOM
 
-**Hardware:** Altium PCB design File, Altium SCH Design File
+**Hardware:** Altium PCB design File, Altium SCH Design File, Gerbers
 
 **Firmware:** Code, Compiled Binary
 
