@@ -5,6 +5,8 @@
 
 This is an accelerometer/gyro/temperature sensor paired with an STM32 ARM cortex-M0 microcontroller. The microcontroller simplifies the sensor data and makes it compatible with EZ-builder.
 
+A unique feature of this design is that it connects directly to a visual interface and automatically outputs ptich and roll angles in EZ-Builder.
+
 ## Contents
 
 **Documentation:** Schematic PDF, Datasheet PDF, BOM
@@ -15,7 +17,7 @@ This is an accelerometer/gyro/temperature sensor paired with an STM32 ARM cortex
 
 ## License
 
-For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else party on!
+For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
 Please see LICENSE.md for license details.
 
