@@ -19,6 +19,6 @@ A unique feature of this design is that it connects directly to a visual interfa
 
 For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
-Please see LICENSE.md for license details.
+Please see [LICENSE.md](https://github.com/synthiam/E-43_Inertial_Sensor/blob/master/LICENSE.md) for license details.
 
 Synthiam Website: https://synthiam.com
