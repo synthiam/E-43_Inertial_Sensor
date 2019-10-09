@@ -9,7 +9,7 @@ A unique feature of this design is that it connects directly to a visual interfa
 
 ## Contents
 
-**Documentation:** Schematic PDF, Datasheet PDF, BOM
+**Documentation:** Schematic PDF, Datasheet PDF, BOM, Test Procedures
 
 **Hardware:** Altium PCB design File, Altium SCH Design File, Gerbers
 
