@@ -28,9 +28,6 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 1. Supplier: programs custom firmware into the STM32F030C8T6 at their facility before sending to manufacturer
 2. Manufacturer: Single side placement and soldering of SMT components
 
-**Note:** This camera natively connects to the EZ-Bv4 WiFi Board: https://github.com/synthiam/E-15_EZ-Bv4_WiFi
-and EZ-B IoTiny: https://github.com/synthiam/E-20_EZ-B_IoTiny
-
 ## Contents
 
 [**Documentation:**](https://github.com/synthiam/E-43_Inertial_Sensor/tree/master/E-43%20Documentation) Schematic PDF, Datasheet PDF, BOM, Test Procedures
