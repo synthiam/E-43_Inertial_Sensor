@@ -11,7 +11,7 @@ Out of our passion to solve the issue of time waste in the robot creation proces
 We didn't stop at the software, we also made time saving hardware solutions. This is an accelerometer/gyro/temperature sensor paired with an STM32 ARM cortex-M0 microcontroller. The microcontroller simplifies the sensor data and makes it compatible with EZ-builder. A unique feature of this design is that it connects directly to a visual interface and automatically outputs pitch and roll angles in EZ-Builder. We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
 **Features:** 
-- 3 axis Gyroscope
+- 3-axis Gyroscope
 - 3-axis Accelerometer
 - Temperature sensor
 - I2C communication
